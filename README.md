@@ -160,7 +160,7 @@ NEXAT INSTITUTE NATARAJA NEXTGEN AI & TECHNOLOGY holds an ISO 9001:2015 Quality 
 
 </div>
 
-**Registered address on the certificate:** No. 31B/98 Sivagami ILLAM, Vanigar Street, Kancheepuram – 631502, Tamil Nadu, India
+**Registered address on the certificate:** No. 31B Vanigar Street, Kanchipuram – 631502, Tamil Nadu, India
 
 **Verification websites printed on the certificate:** [globalstds.in](https://www.globalstds.in) · [iafcertsearch.org](https://www.iafcertsearch.org)
 
@@ -226,6 +226,7 @@ Our ISO 9001:2015 certification details are in the Quality Management & Certific
 - Excel Advanced Course
 - Office Automation
 - Canva Editing
+- MS OFFICE
 
 ## 🔭 Currently Exploring
 
