@@ -126,7 +126,7 @@ class NexatInstitute:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexatinstitute-sys&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" alt="NEXAT INSTITUTE GitHub contribution activity graph" width="100%" />
+  <a href="https://github.com/nexatinstitute-sys">View NEXAT INSTITUTE's contribution activity on GitHub →</a>
 </div>
 
 <br />
@@ -135,10 +135,10 @@ class NexatInstitute:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nexatinstitute-sys&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="NEXAT INSTITUTE GitHub trophies" />
+  <a href="https://github.com/nexatinstitute-sys?tab=repositories">Browse NEXAT INSTITUTE's public repositories →</a>
 </div>
 
-<div align="center"><sub>Automatically generated from GitHub activity. Not an external award or certification.</sub></div>
+<div align="center"><sub>Genuine GitHub activity and repositories are shown on our profile. This section does not represent external awards or certifications.</sub></div>
 
 <br />
 
@@ -160,7 +160,7 @@ NEXAT INSTITUTE NATARAJA NEXTGEN AI & TECHNOLOGY holds an ISO 9001:2015 Quality 
 
 </div>
 
-**Registered address on the certificate:** No. 31B Vanigar Street, Kanchipuram – 631502, Tamil Nadu, India
+**Registered address on the certificate:** No. 31B/98 Sivagami ILLAM, Vanigar Street, Kancheepuram – 631502, Tamil Nadu, India
 
 **Verification websites printed on the certificate:** [globalstds.in](https://www.globalstds.in) · [iafcertsearch.org](https://www.iafcertsearch.org)
 
@@ -226,7 +226,6 @@ Our ISO 9001:2015 certification details are in the Quality Management & Certific
 - Excel Advanced Course
 - Office Automation
 - Canva Editing
-- MS OFFICE
 
 ## 🔭 Currently Exploring
 
